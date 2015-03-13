@@ -1,0 +1,17 @@
+div {
+    margin: 0 auto;
+    width: 400px;
+    display: block;
+}
+#expression, #result {
+    width: 100%;
+    height: 30px;
+    background-color: red;
+    color: yellow;
+}
+#button {
+    border: 1px solid black;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
